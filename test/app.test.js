@@ -9,7 +9,7 @@ test("version returns correct service and version", () =>
   assert.deepEqual(
     {
       service: "platform-demo",
-      version: "2.0.0",
+      version: "1.0.0",
     },
     {
       service: "platform-demo",
